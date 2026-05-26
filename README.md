@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <strong>写博客教人做事，不如蒸馏 SKILL 教 AI 做事。</strong>
+  <strong>写博客教人做事，不如蒸馏 SKILL 教 AI 做事。</strong><br>
+  <em>Instead of writing blogs to teach people how to work, distill SKILLs to teach AI how to work.</em>
 </p>
 
 <p align="center">
