@@ -1,20 +1,8 @@
 <h1 align="center">zccz14</h1>
 
 <p align="center">
-  Skills for AI agents and humans who care about clean reasoning, clean code, and clean documentation.
-</p>
-
-<p align="center">
   <strong>写博客教人做事，不如蒸馏 SKILL 教 AI 做事。</strong><br>
   <em>Instead of writing blogs to teach people how to work, distill SKILLs to teach AI how to work.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zccz14/clean-code">clean-code</a>
-  &middot;
-  <a href="https://github.com/zccz14/clean-doc">clean-doc</a>
-  &middot;
-  <a href="https://github.com/zccz14/R3">R3</a>
 </p>
 
 ## Public Skills
