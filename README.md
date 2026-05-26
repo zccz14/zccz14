@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <strong>写博客教人做事，不如蒸馏 SKILL 教 AI 做事。</strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/zccz14/clean-code">clean-code</a>
   &middot;
   <a href="https://github.com/zccz14/clean-doc">clean-doc</a>
