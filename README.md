@@ -1,8 +1,8 @@
 <h1 align="center">zccz14</h1>
 
 <p align="center">
-  <strong>写博客教人做事，不如蒸馏 SKILL 教 AI 做事。</strong><br>
-  <em>Instead of writing blogs to teach people how to work, distill SKILLs to teach AI how to work.</em>
+  <strong>人教人教不会，SKILL 教人一教就会。</strong><br>
+  <em>People teach people, somehow it never sticks. A SKILL teaches once, and boom, it clicks.</em>
 </p>
 
 ## Public Skills
