@@ -22,9 +22,9 @@ npx skills add zccz14/<skill-name>
 
 | Skill | Purpose |
 | --- | --- |
-| [clean-code](https://github.com/zccz14/clean-code) | Control flow complexity and keep code easy to reason about. |
-| [clean-doc](https://github.com/zccz14/clean-doc) | Turn information into focused, purpose-driven documentation. |
-| [R3](https://github.com/zccz14/R3) | Recursive Residual Reasoning for complex reasoning issues. |
+| [clean-code](https://github.com/zccz14/clean-code) | Guides coding agents toward small, readable, maintainable changes by controlling branching, abstraction, naming, and error handling. |
+| [clean-doc](https://github.com/zccz14/clean-doc) | Helps write, rewrite, shorten, review, and restructure human-facing text for a specific reader, situation, and action. |
+| [R3](https://github.com/zccz14/R3) | Uses Recursive Residual Reasoning to preserve unexplained parts of a problem and expand them into the next reasoning space. |
 
 ## Private Skills
 
