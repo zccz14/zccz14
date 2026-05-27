@@ -19,6 +19,7 @@ npx skills add zccz14/<skill-name>
 | [clean-doc](https://github.com/zccz14/clean-doc) | Helps write, rewrite, shorten, review, and restructure human-facing text for a specific reader, situation, and action. |
 | [R3](https://github.com/zccz14/R3) | Uses Recursive Residual Reasoning to preserve unexplained parts of a problem and expand them into the next reasoning space. |
 | [reliable-model](https://github.com/zccz14/reliable-model) | Helps create, review, and validate reliable models by requiring both prior rationale and empirical validation. |
+| [faster-code](https://github.com/zccz14/faster-code) | Helps agents handle slow, compute-heavy programs with bounded runtime probes, scale estimates, and correctness-preserving optimization. |
 
 ## Private Skills
 
