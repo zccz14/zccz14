@@ -13,13 +13,13 @@ Install any public skill with:
 npx skills add zccz14/<skill-name>
 ```
 
-| Skill | Purpose |
-| --- | --- |
-| [clean-code](https://github.com/zccz14/clean-code) | Guides coding agents toward small, readable, maintainable changes by controlling branching, abstraction, naming, and error handling. |
-| [clean-doc](https://github.com/zccz14/clean-doc) | Helps write, rewrite, shorten, review, and restructure human-facing text for a specific reader, situation, and action. |
-| [R3](https://github.com/zccz14/R3) | Uses Recursive Residual Reasoning to preserve unexplained parts of a problem and expand them into the next reasoning space. |
-| [reliable-model](https://github.com/zccz14/reliable-model) | Helps create, review, and validate reliable models by requiring both prior rationale and empirical validation. |
-| [faster-code](https://github.com/zccz14/faster-code) | Helps agents handle slow, compute-heavy programs with bounded runtime probes, scale estimates, and correctness-preserving optimization. |
+| Skill | Goal | Qualification |
+| --- | --- | --- |
+| [clean-code](https://github.com/zccz14/clean-code) | Keep code correct by making every added path earn its place. | Coding, refactoring, debugging, or review where branching, compatibility, abstraction, or error handling could quietly multiply complexity. |
+| [clean-doc](https://github.com/zccz14/clean-doc) | Turn writing into efficient communication for a specific reader and decision. | Documentation, README, memo, spec, guide, review, or public text that needs less completeness and more consequence. |
+| [R3](https://github.com/zccz14/R3) | Turn the unexplained remainder into the next traceable reasoning space. | Ambiguous causes, failed hypotheses, emergent behavior, complex systems, or investigations where “unknown” is not a good enough stop. |
+| [reliable-model](https://github.com/zccz14/reliable-model) | Make model conclusions explainable, testable, reproducible, and honest about failure boundaries. | Models, rules, rankings, scores, thresholds, predictions, or research claims that need both prior rationale and empirical validation. |
+| [faster-code](https://github.com/zccz14/faster-code) | Decide before the expensive run whether full scale is worth it, then preserve semantics if optimizing. | Slow jobs, timeouts, simulations, scans, training, large data, or any compute-heavy code with unknown target-scale runtime. |
 
 ## Private Skills
 
